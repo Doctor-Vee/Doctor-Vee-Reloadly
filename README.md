@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Doctor-Vee
-- 🏢 I’m work at Reloadly
+- 🏢 I work at Reloadly
 - 📫 You can reach me at vchinewubeze@reloadly.com
 <!---
 Doctor-Vee/Doctor-Vee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
